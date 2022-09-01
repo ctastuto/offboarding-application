@@ -25,3 +25,7 @@ JIRA:
 
 Slack:
 - Send a notification in the automation slack channel linking the JIRA ticket number
+
+# Dependencies
+Download and install [Remote Server Administration Tools for Windows 10 (RSAT)](https://www.microsoft.com/en-us/download/details.aspx?id=45520)
+This is required for the script to work with Active Directory
