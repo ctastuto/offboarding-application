@@ -1,8 +1,8 @@
 # offboarding-application
 Powershell Module used to offboard users from an environment that utilises Active Directory, Exchange, and JIRA
+
 ## Usage
-Used to offboard users.
-It will complete the following:
+Used to offboard users.  It will complete the following:
 
 Active Directory:
 - Disable the account
