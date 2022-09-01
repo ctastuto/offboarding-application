@@ -31,7 +31,7 @@ Download and install [Remote Server Administration Tools for Windows 10 (RSAT)](
 This is required for the script to work with Active Directory
 
 ## Installing the PowerShell Module
-Copy the module to C:\Program Files\WindowsPowerShell\Modules\offboard_script
+Copy the module to ```C:\Program Files\WindowsPowerShell\Modules\offboard_script```
 
 ## Using the PowerShell Module
 1. Open PowerShell as Administrator
