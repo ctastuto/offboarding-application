@@ -35,5 +35,5 @@ Copy the module to C:\Program Files\WindowsPowerShell\Modules\offboard_script
 
 ## Using the PowerShell Module
 1. Open PowerShell as Administrator
-2. Enter 'offboard' followed by a username to offboard
+2. Enter ```offboard``` followed by a username to offboard
 3. Information will be displayed as the user is offboarded
