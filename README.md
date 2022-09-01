@@ -1,5 +1,5 @@
 # offboarding-application
-Powershell Module used to offboard users from an environment that utilises: Active Directory, Exchange, and JIRA
+Powershell Module used to offboard users from an environment that utilises Active Directory, Exchange, and JIRA
 ## Usage
 Used to offboard users.
 It will complete the following:
@@ -29,3 +29,11 @@ Slack:
 ## Dependencies
 Download and install [Remote Server Administration Tools for Windows 10 (RSAT)](https://www.microsoft.com/en-us/download/details.aspx?id=45520)
 This is required for the script to work with Active Directory
+
+## Installing the PowerShell Module
+Copy the module to C:\Program Files\WindowsPowerShell\Modules\offboard_script
+
+## Using the PowerShell Module
+1. Open PowerShell as Administrator
+2. Enter 'offboard' followed by a username to offboard
+3. Information will be displayed as the user is offboarded
